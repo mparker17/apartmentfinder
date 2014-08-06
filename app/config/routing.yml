@@ -1,0 +1,3 @@
+frontpage:
+    path: /
+    defaults: { _controller: ApartmentFinderMainBundle:Frontpage:frontpage }
